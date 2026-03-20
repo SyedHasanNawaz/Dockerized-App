@@ -1,1 +1,1 @@
-print("Hello Motherfucker")
+print("Hello")
